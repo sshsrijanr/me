@@ -5,6 +5,7 @@ const TypedComponent = () => {
   const typeTarget = useRef(null);
   const options = {
     strings: [
+      "I'm a Frontend Developer",
       "I'm a Backend Engineer",
       "I'm a DevOps Engineer",
       "I'm a Software Development Engineer",

@@ -31,6 +31,11 @@ export default function SectionWork() {
   ];
   const work_data = [
     {
+      title: "Media.net",
+      description: "Web Application Developer (Full-Time)",
+      time: "Jun-2021 - Present",
+    },
+    {
       title: "Zaya Learning labs",
       description: "SDE (Full-Time)",
       time: "Jul-2019 Oct-2020",

@@ -15,7 +15,7 @@ const navPillsStyle = (theme) => ({
     overflow: "visible !important",
     lineHeight: "24px",
     textTransform: "uppercase",
-    fontSize: "14px",
+    fontSize: "16px",
     fontWeight: "500",
     position: "relative",
     display: "block",
@@ -129,7 +129,7 @@ const navPillsStyle = (theme) => ({
   tabWrapper: {
     color: "inherit",
     position: "relative",
-    fontSize: "14px",
+    fontSize: "16px",
     lineHeight: "24px",
     fontWeight: "500",
     textTransform: "uppercase",

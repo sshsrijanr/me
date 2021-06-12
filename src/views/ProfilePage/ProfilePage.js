@@ -61,7 +61,7 @@ export default function ProfilePage() {
             </GridContainer>
             <div className={classes.description}>
               <p style={{ fontSize: "16px", paddingBottom: "50px" }}>
-                Hello, I am <u>Srijan Ramavat</u> a Software Engineer with 1.4
+                Hello, I am <u>Srijan Ramavat</u> a Software Engineer with 1+
                 years of experience in software development and quality-focused
                 on &apos;Getting things done right&apos;.
                 <br />

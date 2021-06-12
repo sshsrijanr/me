@@ -5,6 +5,7 @@ import { makeStyles } from "@material-ui/core/styles";
 // @material-ui/icons
 import SupervisedUserCircle from "@material-ui/icons/SupervisedUserCircle";
 import Schedule from "@material-ui/icons/Schedule";
+import Bookmark from "@material-ui/icons/Bookmark";
 import DeleteSweep from "@material-ui/icons/DeleteSweep";
 
 // core components
@@ -15,6 +16,7 @@ import NavPills from "components/NavPills/NavPills.js";
 import ocularProfile from "assets/img/ocular_profile.png";
 import bookIt from "assets/img/bookit.png";
 import cleanItUp from "assets/img/cleanItUp.png";
+import Python from "assets/img/python.png";
 
 import styles from "assets/jss/material-kit-react/views/componentsSections/pillsStyle.js";
 
@@ -39,8 +41,53 @@ export default function SectionProject() {
                 }}
                 tabs={[
                   {
-                    tabButton: "BookItUp",
+                    tabButton: "python-timekit",
                     tabIcon: Schedule,
+                    tabContent: (
+                      <div>
+                        <span>
+                          <span>
+                            <img
+                              src={Python}
+                              alt="..."
+                              className={
+                                classes.imgRaised +
+                                " " +
+                                classes.imgRounded +
+                                " " +
+                                classes.imgFluid +
+                                " " +
+                                classes.image
+                              }
+                              width="350"
+                              height="350"
+                            />
+                          </span>
+                          <p style={{ fontSize: "16px" }}>
+                            An open-source project in python that can be used to
+                            integrate Timekit APIs in python scripts and python
+                            web development frameworks like Django,Flask etc.
+                            You just need to create an account on Timekit and
+                            generate API_KEY, then follow the instructions on
+                            the either of given below pages and you will be able
+                            to use this library easily.
+                            <br />
+                            <a href="https://github.com/Srijan-Ramavat/python-timekit">
+                              Github
+                            </a>{" "}
+                            <br />
+                            <a href="https://pypi.org/project/python-timekit/">
+                              pypi.org
+                            </a>{" "}
+                            <br />
+                          </p>
+                        </span>
+                      </div>
+                    ),
+                  },
+                  {
+                    tabButton: "BookItUp",
+                    tabIcon: Bookmark,
                     tabContent: (
                       <div>
                         <span>
@@ -57,11 +104,11 @@ export default function SectionProject() {
                                 " " +
                                 classes.image
                               }
-                              width="300"
-                              height="250"
+                              width="400"
+                              height="350"
                             />
                           </span>
-                          <p>
+                          <p style={{ fontSize: "16px" }}>
                             Web app for booking tickets for events (like
                             BookMyShow). We have created this web app using Vue
                             js for the frontend and Django(REST) for the
@@ -103,11 +150,11 @@ export default function SectionProject() {
                               " " +
                               classes.image
                             }
-                            width="220"
-                            height="250"
+                            width="320"
+                            height="350"
                           />
                         </span>
-                        <p>
+                        <p style={{ fontSize: "16px" }}>
                           The objective of this project is to provide a service
                           or software that is capable of fetching personal
                           information about users available through social media
@@ -141,11 +188,11 @@ export default function SectionProject() {
                               " " +
                               classes.image
                             }
-                            width="300"
-                            height="250"
+                            width="400"
+                            height="350"
                           />
                         </span>
-                        <p>
+                        <p style={{ fontSize: "16px" }}>
                           Online Portal for BMC where they can directly access
                           the staff and administration to manage complaints
                           against the Garbage collection. They have separate
