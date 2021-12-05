@@ -13,7 +13,7 @@ import DRFIcon from "assets/img/dj_rest.jpeg";
 import TwilioIcon from "assets/img/twilio-sendgrid.png";
 import FirebaseIcon from "assets/img/firebase.jpeg";
 import JenkinsIcon from "assets/img/jenkins.jpeg";
-import AnsibleIcon from "assets/img/ansible.jpeg";
+import MysqlIcon from "assets/img/mysql.png";
 import FastlaneIcon from "assets/img/fastlane.jpeg";
 
 import styles from "assets/jss/material-kit-react/views/landingPageSections/productStyle.js";
@@ -68,6 +68,10 @@ export default function SectionTools() {
         </GridContainer>
         <GridContainer justify="center">
           <GridItem xs={12} sm={12} md={2}>
+            <img src={MysqlIcon} width="70" height="70" alt="mysql"></img>
+            <h5 className={classes.title}>MySQL</h5>
+          </GridItem>
+          <GridItem xs={12} sm={12} md={2}>
             <img src={PGIcon} width="70" height="70" alt="postgres-logo"></img>
             <h5 className={classes.title}>PostgreSQL</h5>
           </GridItem>
@@ -83,10 +87,6 @@ export default function SectionTools() {
           <GridItem xs={12} sm={12} md={2}>
             <img src={JenkinsIcon} width="70" height="70" alt="jenkins"></img>
             <h5 className={classes.title}>Jenkins</h5>
-          </GridItem>
-          <GridItem xs={12} sm={12} md={2}>
-            <img src={AnsibleIcon} width="70" height="70" alt="ansible"></img>
-            <h5 className={classes.title}>Ansible</h5>
           </GridItem>
           <GridItem xs={12} sm={12} md={2}>
             <img src={FastlaneIcon} width="70" height="70" alt="fastlane"></img>
