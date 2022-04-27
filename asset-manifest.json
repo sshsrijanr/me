@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/me/static/css/main.fedf132f.chunk.css",
-    "main.js": "/me/static/js/main.658b09f1.chunk.js",
-    "main.js.map": "/me/static/js/main.658b09f1.chunk.js.map",
+    "main.css": "/me/static/css/main.b5931c77.chunk.css",
+    "main.js": "/me/static/js/main.41890489.chunk.js",
+    "main.js.map": "/me/static/js/main.41890489.chunk.js.map",
     "runtime-main.js": "/me/static/js/runtime-main.8c69244e.js",
     "runtime-main.js.map": "/me/static/js/runtime-main.8c69244e.js.map",
-    "static/js/2.1b105ca3.chunk.js": "/me/static/js/2.1b105ca3.chunk.js",
-    "static/js/2.1b105ca3.chunk.js.map": "/me/static/js/2.1b105ca3.chunk.js.map",
+    "static/js/2.36f88f92.chunk.js": "/me/static/js/2.36f88f92.chunk.js",
+    "static/js/2.36f88f92.chunk.js.map": "/me/static/js/2.36f88f92.chunk.js.map",
     "index.html": "/me/index.html",
-    "precache-manifest.b5183f7ec7ae693768b1a117daeea391.js": "/me/precache-manifest.b5183f7ec7ae693768b1a117daeea391.js",
+    "precache-manifest.363bf494a0ee3c42fde116aec239c189.js": "/me/precache-manifest.363bf494a0ee3c42fde116aec239c189.js",
     "service-worker.js": "/me/service-worker.js",
-    "static/css/main.fedf132f.chunk.css.map": "/me/static/css/main.fedf132f.chunk.css.map",
-    "static/js/2.1b105ca3.chunk.js.LICENSE.txt": "/me/static/js/2.1b105ca3.chunk.js.LICENSE.txt",
+    "static/css/main.b5931c77.chunk.css.map": "/me/static/css/main.b5931c77.chunk.css.map",
+    "static/js/2.36f88f92.chunk.js.LICENSE.txt": "/me/static/js/2.36f88f92.chunk.js.LICENSE.txt",
     "static/media/Resume_Srijan.pdf": "/me/static/media/Resume_Srijan.a2f5a31a.pdf",
     "static/media/avatar.jpg": "/me/static/media/avatar.fdab07bd.jpg",
     "static/media/bg2.jpg": "/me/static/media/bg2.84378183.jpg",
@@ -21,17 +21,17 @@
     "static/media/fastlane.jpeg": "/me/static/media/fastlane.42a78bd7.jpeg",
     "static/media/jenkins.jpeg": "/me/static/media/jenkins.6de72bbd.jpeg",
     "static/media/logo.png": "/me/static/media/logo.6d7b2ec2.png",
+    "static/media/maven.svg": "/me/static/media/maven.41bdb588.svg",
     "static/media/mysql.png": "/me/static/media/mysql.af0dad0a.png",
     "static/media/ocular_profile.png": "/me/static/media/ocular_profile.52745d75.png",
     "static/media/postgres.jpeg": "/me/static/media/postgres.e06637aa.jpeg",
     "static/media/python.png": "/me/static/media/python.2aae2ae0.png",
-    "static/media/react.jpg": "/me/static/media/react.57d16bad.jpg",
-    "static/media/twilio-sendgrid.png": "/me/static/media/twilio-sendgrid.1456103c.png"
+    "static/media/react.jpg": "/me/static/media/react.57d16bad.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.8c69244e.js",
-    "static/js/2.1b105ca3.chunk.js",
-    "static/css/main.fedf132f.chunk.css",
-    "static/js/main.658b09f1.chunk.js"
+    "static/js/2.36f88f92.chunk.js",
+    "static/css/main.b5931c77.chunk.css",
+    "static/js/main.41890489.chunk.js"
   ]
 }
