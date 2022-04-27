@@ -10,7 +10,7 @@ import ReactIcon from "assets/img/react.jpg";
 import VueIcon from "assets/img/vue.jpeg";
 import PGIcon from "assets/img/postgres.jpeg";
 import DRFIcon from "assets/img/dj_rest.jpeg";
-import TwilioIcon from "assets/img/twilio-sendgrid.png";
+import MavenIcon from "assets/img/maven.svg";
 import FirebaseIcon from "assets/img/firebase.jpeg";
 import JenkinsIcon from "assets/img/jenkins.jpeg";
 import MysqlIcon from "assets/img/mysql.png";
@@ -58,12 +58,12 @@ export default function SectionTools() {
           </GridItem>
           <GridItem xs={12} sm={12} md={2}>
             <img
-              src={TwilioIcon}
+              src={MavenIcon}
               width="120"
               height="70"
-              alt="twilio-logo"
+              alt="maven-logo"
             ></img>
-            <h5 className={classes.title}>Twilio Sendgrid</h5>
+            <h5 className={classes.title}>Maven(Java)</h5>
           </GridItem>
         </GridContainer>
         <GridContainer justify="center">

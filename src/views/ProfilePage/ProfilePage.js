@@ -65,8 +65,9 @@ export default function ProfilePage() {
                 years of experience in software development and quality-focused
                 on &apos;Getting things done right&apos;.
                 <br />
-                Always keeping up with the updates on Dev Tools and new Tech. is
-                one of my forte.
+                I love to learn new technologies and use them in building new projects. 
+                Currently working on Improving and Enhancing Ad Serving process, analysing data 
+                and improving bids on Ads and developing new analytics to analyse data.
                 <br />{" "}
               </p>
             </div>
