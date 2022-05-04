@@ -72,11 +72,11 @@ export default function SectionProject() {
                             the either of given below pages and you will be able
                             to use this library easily.
                             <br />
-                            <a href="https://github.com/Srijan-Ramavat/python-timekit">
+                            <a href="https://github.com/Srijan-Ramavat/python-timekit" rel="noopener noreferrer" target="_blank">
                               Github
                             </a>{" "}
                             <br />
-                            <a href="https://pypi.org/project/python-timekit/">
+                            <a href="https://pypi.org/project/python-timekit/" rel="noopener noreferrer" target="_blank">
                               pypi.org
                             </a>{" "}
                             <br />

@@ -40,7 +40,7 @@ export default function ProfilePage() {
           color: "white",
         }}
       />
-      <Parallax small filter image={require("assets/img/bg2.jpg")} />
+      <Parallax small filter image={require("assets/img/background.jpg")} />
       <div className={classNames(classes.main, classes.mainRaised)}>
         <div>
           <div className={classes.container}>
@@ -65,9 +65,10 @@ export default function ProfilePage() {
                 years of experience in software development and quality-focused
                 on &apos;Getting things done right&apos;.
                 <br />
-                I love to learn new technologies and use them in building new projects. 
-                Currently working on Improving and Enhancing Ad Serving process, analysing data 
-                and improving bids on Ads and developing new analytics to analyse data.
+                I love to learn new technologies and use them in building new projects.
+                <br />
+                Open for all the Opportunities - Jobs, Open-source, Freelancing, Consultant. 
+                <br/>Just Jab me your queries and will try to help as much as possible.
                 <br />{" "}
               </p>
             </div>
