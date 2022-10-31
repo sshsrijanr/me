@@ -65,10 +65,14 @@ export default function ProfilePage() {
                 years of experience in software development and quality-focused
                 on &apos;Getting things done right&apos;.
                 <br />
-                I love to learn new technologies and use them in building new projects.
+                I love to learn new technologies and use them in building new
+                projects.
                 <br />
-                Open for all the Opportunities - Jobs, Open-source, Freelancing, Consultant. 
-                <br/>Just Jab me your queries and will try to help as much as possible.
+                Open for all the Opportunities - Jobs, Open-source, Freelancing,
+                Consultant.
+                <br />
+                Just Jab me your queries and will try to help as much as
+                possible.
                 <br />{" "}
               </p>
             </div>
