@@ -40,7 +40,7 @@ export default function ProfilePage() {
           color: "white",
         }}
       />
-      <Parallax small filter image={require("assets/img/background.jpg")} />
+      <Parallax small filter image={require("assets/img/mnet.jpeg")} />
       <div className={classNames(classes.main, classes.mainRaised)}>
         <div>
           <div className={classes.container}>
@@ -61,7 +61,7 @@ export default function ProfilePage() {
             </GridContainer>
             <div className={classes.description}>
               <p style={{ fontSize: "16px", paddingBottom: "50px" }}>
-                Hello, I am <u>Srijan Ramavat</u> a Software Engineer with 2+
+                Hello, I am <u>Srijan Ramavat</u> a Software Engineer with 3+
                 years of experience in software development and quality-focused
                 on &apos;Getting things done right&apos;.
                 <br />
