@@ -45,7 +45,7 @@ export default function SectionContact() {
               </Button>
             </a>
             <a
-              href="https://instagram.com/srijan.ramavat"
+              href="https://instagram.com/sshsrijan.r"
               rel="noopener noreferrer"
               target="_blank"
             >
