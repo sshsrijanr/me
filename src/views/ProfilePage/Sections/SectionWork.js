@@ -33,39 +33,36 @@ export default function SectionWork() {
     {
       title: "Media.net (Adtech), Mumbai",
       description: [
-        "Web Application Developer (Full-Time)",
-        "1. Created and Enhanced multiple Ad serving Strategies",
-        "2. Developed Scripts for automating tasks",
-        "3. Created/Updated Stored Procedures for Data Analysis",
-        "4. Developed internal Analytics Web Applications",
+        "Web Application Developer L2 (Full-Time)",
+        "1. Led the effort to modernize the legacy codebase, which produced a noteworthy 15% increase in memory efficiency and a noteworthy 10% improvement in latency.",
+        "2. Developed and refined a variety of ad-serving tactics, resulting in 2% increased click-through and conversion rates.",
+        "3. Made use of K-Nearest Neighbours Classification to improve and speed up recommendation engines inside the ad-serving network.",
+        "4. Improved the functionality of several micro-services based on Service-Oriented Architectures essential to ad-serving operations.",
+        "5. Planned and carried out faultless database transfer initiatives, guaranteeing resource cost reductions by 5% and continuous operations.",
       ],
-      time: "Jun 2021 - Present",
+      time: "Apr 2022 - Present",
+    },
+    {
+      title: "Media.net (Adtech), Mumbai",
+      description: [
+        "Web Application Developer (Full-Time)",
+        "1. Architected and developed Internal Analytics Web Applications tailored for robust data analysis.",
+        "2. Conducted a comprehensive data analysis to identify potential system enhancements.",
+        "3. Engineered and optimized multiple data pipelines essential for ad-serving data, resulting in 20% faster serving",
+        "4. Employed sophisticated K-mean Data clustering techniques to discern meaningful patterns from vast datasets.",
+      ],
+      time: "Jun 2021 - Mar 2022",
     },
     {
       title: "Zaya Learning labs (Edtech), Mumbai",
       description: [
         "SDE (Full-Time)",
-        "1. Built multiple apps with 10K+ active users from scratch",
-        "2. Developed Various Restful APIs for Multiple Projects",
-        "3. CI/CD pipelines for  Web Apps, Backend APIs",
+        "Pioneered the development of Backend APIs for multiple applications, serving a thriving user base exceeding 10,000 active users.",
+        "Implemented CI/CD pipelines to ensure seamless deployment of Web Apps and Backend APIs making development process 30% faster.",
+        "Crafted the architectural blueprint and meticulously designed the database structure for project backends.",
+        "Engineered Python libraries, facilitating seamless interaction with third-party micro-services.",
       ],
       time: "Jul 2019 - Oct 2020",
-    },
-    {
-      title: "AlphaGen Menufi, Mumbai",
-      description: [
-        "Php Developer (Part-Time)",
-        "Spearheaded Project Management and developed Restaurant Automation Application",
-      ],
-      time: "Dec 2017 - Feb 2018",
-    },
-    {
-      title: "Didimos Web Solutions, Mumbai",
-      description: [
-        "Front-End Developer (Intern)",
-        "Developed Portfolio Websites",
-      ],
-      time: "Apr 2016",
     },
   ];
   return (
