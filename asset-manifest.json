@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/me/static/css/main.c5a3ee5c.chunk.css",
-    "main.js": "/me/static/js/main.2f3aa46b.chunk.js",
-    "main.js.map": "/me/static/js/main.2f3aa46b.chunk.js.map",
+    "main.js": "/me/static/js/main.e328c4c5.chunk.js",
+    "main.js.map": "/me/static/js/main.e328c4c5.chunk.js.map",
     "runtime-main.js": "/me/static/js/runtime-main.8c69244e.js",
     "runtime-main.js.map": "/me/static/js/runtime-main.8c69244e.js.map",
     "static/js/2.4562527e.chunk.js": "/me/static/js/2.4562527e.chunk.js",
     "static/js/2.4562527e.chunk.js.map": "/me/static/js/2.4562527e.chunk.js.map",
     "index.html": "/me/index.html",
-    "precache-manifest.6cdd7e1b9011f70b0834727c332bc14e.js": "/me/precache-manifest.6cdd7e1b9011f70b0834727c332bc14e.js",
+    "precache-manifest.6b8f2a8998a26c0b9259ef575f285281.js": "/me/precache-manifest.6b8f2a8998a26c0b9259ef575f285281.js",
     "service-worker.js": "/me/service-worker.js",
     "static/css/main.c5a3ee5c.chunk.css.map": "/me/static/css/main.c5a3ee5c.chunk.css.map",
     "static/js/2.4562527e.chunk.js.LICENSE.txt": "/me/static/js/2.4562527e.chunk.js.LICENSE.txt",
-    "static/media/Resume_Srijan.pdf": "/me/static/media/Resume_Srijan.6fb3236b.pdf",
+    "static/media/Resume_Srijan.pdf": "/me/static/media/Resume_Srijan.03fec3b2.pdf",
     "static/media/avatar.jpg": "/me/static/media/avatar.fdab07bd.jpg",
     "static/media/bookit.png": "/me/static/media/bookit.1d54217f.png",
     "static/media/cleanItUp.png": "/me/static/media/cleanItUp.2d6ac55e.png",
@@ -21,17 +21,17 @@
     "static/media/jenkins.jpeg": "/me/static/media/jenkins.6de72bbd.jpeg",
     "static/media/logo.png": "/me/static/media/logo.6d7b2ec2.png",
     "static/media/maven.svg": "/me/static/media/maven.41bdb588.svg",
-    "static/media/mnet.jpeg": "/me/static/media/mnet.c3443985.jpeg",
     "static/media/mysql.png": "/me/static/media/mysql.af0dad0a.png",
     "static/media/ocular_profile.png": "/me/static/media/ocular_profile.52745d75.png",
     "static/media/postgres.jpeg": "/me/static/media/postgres.e06637aa.jpeg",
     "static/media/python.png": "/me/static/media/python.2aae2ae0.png",
-    "static/media/react.jpg": "/me/static/media/react.57d16bad.jpg"
+    "static/media/react.jpg": "/me/static/media/react.57d16bad.jpg",
+    "static/media/sqlback.jpeg": "/me/static/media/sqlback.9b363ccb.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.8c69244e.js",
     "static/js/2.4562527e.chunk.js",
     "static/css/main.c5a3ee5c.chunk.css",
-    "static/js/main.2f3aa46b.chunk.js"
+    "static/js/main.e328c4c5.chunk.js"
   ]
 }
