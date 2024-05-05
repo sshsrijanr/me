@@ -36,11 +36,11 @@ export default function ProfilePage() {
         rightLinks={<HeaderLinks />}
         fixed
         changeColorOnScroll={{
-          height: 200,
+          height: 250,
           color: "white",
         }}
       />
-      <Parallax small filter image={require("assets/img/mnet.jpeg")} />
+      <Parallax small filter image={require("assets/img/sqlback.jpeg")} />
       <div className={classNames(classes.main, classes.mainRaised)}>
         <div>
           <div className={classes.container}>

@@ -36,7 +36,7 @@ export default function SectionContact() {
               </Button>
             </a>
             <a
-              href="https://linkedin.com/in/srijan-ramavat"
+              href="https://linkedin.com/in/sshsrijanr"
               rel="noopener noreferrer"
               target="_blank"
             >
@@ -55,7 +55,7 @@ export default function SectionContact() {
               </Button>
             </a>
             <a
-              href="https://github.com/srijan-ramavat"
+              href="https://github.com/sshsrijanr"
               rel="noopener noreferrer"
               target="_blank"
             >
