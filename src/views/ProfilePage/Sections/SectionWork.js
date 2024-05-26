@@ -33,14 +33,21 @@ export default function SectionWork() {
     {
       title: "Media.net (Adtech), Mumbai",
       description: [
-        "Web Application Developer L2 (Full-Time)",
+        "Web Application Developer L3 (Full-Time)",
         "1. Led the effort to modernize the legacy codebase, which produced a noteworthy 15% increase in memory efficiency and a noteworthy 10% improvement in latency.",
-        "2. Developed and refined a variety of ad-serving tactics, resulting in 2% increased click-through and conversion rates.",
-        "3. Made use of K-Nearest Neighbours Classification to improve and speed up recommendation engines inside the ad-serving network.",
-        "4. Improved the functionality of several micro-services based on Service-Oriented Architectures essential to ad-serving operations.",
-        "5. Planned and carried out faultless database transfer initiatives, guaranteeing resource cost reductions by 5% and continuous operations.",
+        "2. Planned and carried out faultless database transfer initiatives, guaranteeing resource cost reductions by 5% and continuous operations.",
       ],
-      time: "Apr 2022 - Present",
+      time: "Jan 2024 - Present",
+    },
+    {
+      title: "Media.net (Adtech), Mumbai",
+      description: [
+        "Web Application Developer L2 (Full-Time)",
+        "1. Developed and refined a variety of ad-serving tactics, resulting in 2% increased click-through and conversion rates.",
+        "2. Made use of K-Nearest Neighbours Classification to improve and speed up recommendation engines inside the ad-serving network.",
+        "3. Improved the functionality of several micro-services based on Service-Oriented Architectures essential to ad-serving operations.",
+      ],
+      time: "Jan 2022 - Dec 2023",
     },
     {
       title: "Media.net (Adtech), Mumbai",
@@ -51,7 +58,7 @@ export default function SectionWork() {
         "3. Engineered and optimized multiple data pipelines essential for ad-serving data, resulting in 20% faster serving",
         "4. Employed sophisticated K-mean Data clustering techniques to discern meaningful patterns from vast datasets.",
       ],
-      time: "Jun 2021 - Mar 2022",
+      time: "Jun 2021 - Dec 2021",
     },
     {
       title: "Zaya Learning labs (Edtech), Mumbai",
@@ -63,6 +70,22 @@ export default function SectionWork() {
         "Engineered Python libraries, facilitating seamless interaction with third-party micro-services.",
       ],
       time: "Jul 2019 - Oct 2020",
+    },
+    {
+      title: "AlphaGen Software Solutions, Mumbai",
+      description: [
+        "Web Developer (Part-time)",
+        "Engineered a product for ordering food in the restaurant using our mobile just by connecting with the available Wi-Fi of the restaurant with an Admin Pane for the Manager to manage and organize segments related to food order and staff.",
+      ],
+      time: "Dec 2017 - Feb 2018",
+    },
+    {
+      title: "Didimos Web Solutions, Mumbai",
+      description: [
+        "Frontend Developer (Intern)",
+        "A Front-End Website was created by using HTML, CSS, and BOOTSTRAP FRAMEWORK technologies. The website created was a Portfolio for an Academician cum Research Scholar.",
+      ],
+      time: "Apr 2016",
     },
   ];
   return (

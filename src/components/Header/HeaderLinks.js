@@ -13,7 +13,7 @@ import { CloudDownload } from "@material-ui/icons";
 import Button from "components/CustomButtons/Button.js";
 
 import styles from "assets/jss/material-kit-react/components/headerLinksStyle.js";
-import resumeFile from "assets/docs/Resume_Srijan.pdf";
+import resumeFile from "assets/docs/resume_srijanr.pdf";
 
 const useStyles = makeStyles(styles);
 
