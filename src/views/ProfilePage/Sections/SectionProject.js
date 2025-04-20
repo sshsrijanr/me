@@ -6,7 +6,7 @@ import { makeStyles } from "@material-ui/core/styles";
 import SupervisedUserCircle from "@material-ui/icons/SupervisedUserCircle";
 import Schedule from "@material-ui/icons/Schedule";
 import Bookmark from "@material-ui/icons/Bookmark";
-import DeleteSweep from "@material-ui/icons/DeleteSweep";
+import BugReport from "@material-ui/icons/BugReport";
 
 // core components
 import GridContainer from "components/Grid/GridContainer.js";
@@ -15,7 +15,7 @@ import NavPills from "components/NavPills/NavPills.js";
 
 import ocularProfile from "assets/img/ocular_profile.png";
 import bookIt from "assets/img/bookit.png";
-import cleanItUp from "assets/img/cleanItUp.png";
+import bugBountyHunter from "assets/img/bbh.png";
 import Python from "assets/img/python.png";
 
 import styles from "assets/jss/material-kit-react/views/componentsSections/pillsStyle.js";
@@ -40,6 +40,57 @@ export default function SectionProject() {
                   contentGrid: { xs: 12, sm: 9, md: 9 },
                 }}
                 tabs={[
+                  {
+                    tabButton: "Bug Bounty Hunter SaaS Application",
+                    tabIcon: BugReport,
+                    tabContent: (
+                      <span>
+                        <span>
+                          <img
+                            src={bugBountyHunter}
+                            alt="..."
+                            className={
+                              classes.imgRaised +
+                              " " +
+                              classes.imgRounded +
+                              " " +
+                              classes.imgFluid +
+                              " " +
+                              classes.image
+                            }
+                            width="400"
+                            height="350"
+                          />
+                        </span>
+                        <p style={{ fontSize: "16px" }}>
+                          Tools: Python, FastAPI, PostgreSQL, RAG, Vector
+                          Search, Docker, Git, LLMs (Claude, Ollama),
+                          Elasticsearch, Stripe
+                          <br />
+                          Developed a scalable, AI-powered application that
+                          automatically detects exceptions in application logs
+                          and generates code fixes.
+                          <br />
+                          1. Designed a robust log processing pipeline that
+                          extracts exceptions from various sources (log files,
+                          Elasticsearch)
+                          <br />
+                          2. Implemented a modular LLM integration system
+                          supporting both commercial (Claude, DeepSeek) and
+                          open-source models (Ollama)
+                          <br />
+                          3. Created a code analysis system that retrieves
+                          relevant code snippets from GitHub/GitLab repositories
+                          <br />
+                          4. Implemented a RAG (Retrieval Augmented Generation)
+                          system that enhances LLM performance by providing
+                          relevant code context using vector search
+                          infrastructure to efficiently index and retrieve code
+                          snippets based on exception data
+                        </p>
+                      </span>
+                    ),
+                  },
                   {
                     tabButton: "python-timekit",
                     tabIcon: Schedule,
@@ -72,11 +123,19 @@ export default function SectionProject() {
                             the either of given below pages and you will be able
                             to use this library easily.
                             <br />
-                            <a href="https://github.com/Srijan-Ramavat/python-timekit" rel="noopener noreferrer" target="_blank">
+                            <a
+                              href="https://github.com/Srijan-Ramavat/python-timekit"
+                              rel="noopener noreferrer"
+                              target="_blank"
+                            >
                               Github
                             </a>{" "}
                             <br />
-                            <a href="https://pypi.org/project/python-timekit/" rel="noopener noreferrer" target="_blank">
+                            <a
+                              href="https://pypi.org/project/python-timekit/"
+                              rel="noopener noreferrer"
+                              target="_blank"
+                            >
                               pypi.org
                             </a>{" "}
                             <br />
@@ -166,42 +225,6 @@ export default function SectionProject() {
                           Facial Recognition Algorithm and Collected Data for
                           learning via Social Media APIs and Trained an AI for
                           Detection. UI of this software is designed in TKinter.
-                        </p>
-                      </span>
-                    ),
-                  },
-                  {
-                    tabButton: "CleanItUp",
-                    tabIcon: DeleteSweep,
-                    tabContent: (
-                      <span>
-                        <span>
-                          <img
-                            src={cleanItUp}
-                            alt="..."
-                            className={
-                              classes.imgRaised +
-                              " " +
-                              classes.imgRounded +
-                              " " +
-                              classes.imgFluid +
-                              " " +
-                              classes.image
-                            }
-                            width="400"
-                            height="350"
-                          />
-                        </span>
-                        <p style={{ fontSize: "16px" }}>
-                          Online Portal for BMC where they can directly access
-                          the staff and administration to manage complaints
-                          against the Garbage collection. They have separate
-                          panels to update the Status of Complaints.
-                          <br />
-                          This project is build using Php Framework Codeigniter.
-                          For Database we have used MySQL Server. In this
-                          project, I have implemented GIS system for tracking
-                          location of complaint.
                         </p>
                       </span>
                     ),
