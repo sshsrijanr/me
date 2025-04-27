@@ -58,35 +58,25 @@ export default function SectionProject() {
                               " " +
                               classes.image
                             }
-                            width="400"
-                            height="350"
+                            width="350"
+                            height="250"
                           />
                         </span>
                         <p style={{ fontSize: "16px" }}>
-                          Tools: Python, FastAPI, PostgreSQL, RAG, Vector
+                          <b>Tools: Python, FastAPI, PostgreSQL, RAG, Vector
                           Search, Docker, Git, LLMs (Claude, Ollama),
-                          Elasticsearch, Stripe
+                          Elasticsearch, Stripe</b>
                           <br />
                           Developed a scalable, AI-powered application that
                           automatically detects exceptions in application logs
                           and generates code fixes.
                           <br />
-                          1. Designed a robust log processing pipeline that
-                          extracts exceptions from various sources (log files,
-                          Elasticsearch)
-                          <br />
-                          2. Implemented a modular LLM integration system
-                          supporting both commercial (Claude, DeepSeek) and
-                          open-source models (Ollama)
-                          <br />
-                          3. Created a code analysis system that retrieves
-                          relevant code snippets from GitHub/GitLab repositories
-                          <br />
-                          4. Implemented a RAG (Retrieval Augmented Generation)
-                          system that enhances LLM performance by providing
-                          relevant code context using vector search
-                          infrastructure to efficiently index and retrieve code
-                          snippets based on exception data
+                          <ul>
+                            <li>Designed a robust log processing pipeline that extracts exceptions from various sources (log files, Elasticsearch)</li>
+                            <li>Implemented a modular LLM integration system supporting both commercial (Claude, DeepSeek) and open-source models (Ollama)</li>
+                            <li>Created a code analysis system that retrieves relevant code snippets from GitHub/GitLab repositories</li>
+                            <li>Implemented a RAG (Retrieval Augmented Generation) system that enhances LLM performance by providing relevant code context using vector search infrastructure to efficiently index and retrieve code snippets based on exception data</li>
+                          </ul>
                         </p>
                       </span>
                     ),
