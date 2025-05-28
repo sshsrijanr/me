@@ -33,6 +33,15 @@ export default function SectionWork() {
     {
       title: "Media.net (Adtech), Mumbai",
       description: [
+        "Senior Web Application Developer (Full-Time)",
+        "1. Developed support for Multi-language Contextual Ad serving using a Large Language Model.",
+        "2. Optimised services in the recommendation system reduced response time by 25%.",
+      ],
+      time: "Jan 2025 - Present",
+    },
+    {
+      title: "Media.net (Adtech), Mumbai",
+      description: [
         "Web Application Developer L3 (Full-Time)",
         "1. Designed and implemented LLD for exploration strategies for machine learning models, optimizing selection for various use cases.",
         "2. Developed an Ad-serving strategy powered by a vector search infrastructure to efficiently index and retrieve ads for Contextual Ad Targeting, leading to a 5% increase in RPM.",
@@ -40,7 +49,7 @@ export default function SectionWork() {
         "4. Redesigned microservices using Kafka and Airflow, enabling parallel processing and multi-database support, resulting in a 20% faster data pipeline.",
         "5. Optimized a Java-based monolithic application, reducing memory usage by 15% and improving system latency by 10%.",
       ],
-      time: "Jan 2024 - Present",
+      time: "Jan 2024 - Dec 2024",
     },
     {
       title: "Media.net (Adtech), Mumbai",
